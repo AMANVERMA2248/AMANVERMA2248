@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Verma. I'm a passionate and dedicated full stack developer I enjoy building robust backend systems in Java and crafting user-friendly frontends using modern web technologies. </h1>
+<h1 align="center">Hi 👋, I'm Aman Verma. </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma2248&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma2248" /> </p>
